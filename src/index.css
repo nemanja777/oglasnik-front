@@ -1,0 +1,59 @@
+
+
+.visina{
+  margin-top: 100px;
+  height: 400px;
+}
+
+
+
+
+.log{
+  margin-left: 700px;
+}
+
+.donjaMargina{
+  margin-bottom: 50px;
+}
+
+/*.button {
+  background-color: #000000; 
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px
+}*/
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: navy;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: rgb(226, 216, 216);
+  }
+
+  .margina{
+    margin-left: 5px;
+  }
